@@ -2,6 +2,8 @@
 
 <img src='./img/0x01_계층.png' width="400" height="300" align="left">
 
+
+
 - 컴퓨터 하드웨어 바로 위에 설치되어 사용자 및 다른 모든 소프트웨어와 하드웨어를 연결하는 소프트웨어 계층
 - 좁은 의미: 커널 (메모리에 상주하는 부분)
 - 넓은 의미: 커널 + 유틸리티 (메모리에 상주 하지 않는 별도의 프로그램들)
@@ -104,4 +106,3 @@
     Operating System Concepts 10th edition<br>
   </div>
 </details>
-

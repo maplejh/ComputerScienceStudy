@@ -2,6 +2,8 @@
 
 <img src='./img/0x02_컴퓨터시스템구조필기.png' width="950" height="500" align="left">
 
+
+
 <details>
   <summary>나중에 다시 해보기</summary>
   <div markdown="1">
@@ -120,6 +122,8 @@
 ## 저장장치 계층구조
 
 <img src='./img/0x02_저장장치계층구조.png' width="700" height="450" align="left">
+
+
 
 - Primary (Executable)
   - 휘발성 매체

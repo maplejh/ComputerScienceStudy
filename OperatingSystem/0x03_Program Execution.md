@@ -2,6 +2,8 @@
 
 <img src='./img/0x03_메모리로드.png' width="700" height="450" align="left">
 
+
+
 - 실행파일이 메모리로 올라가서 프로세스가 됨
 
 - 물리적 메모리(physical memory)로 바로 올라가는 것이 아닌 virtual memory 단계를 거쳐서 올라감
@@ -44,6 +46,8 @@
 - 사용자 프로그램을 실행할때 계속 하나의 코드만 실행하지 않는다
 
 <img src='./img/0x03_프로그램실행.png' width="700" height="350" align="left">
+
+
 
 
 
