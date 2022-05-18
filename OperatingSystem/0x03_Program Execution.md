@@ -1,9 +1,6 @@
 ## 프로그램 실행 (메모리 load)
 
-<img src='./img/0x03_메모리로드.png' width="700" height="450" align="left"/>  
-
-
-
+<img src='./img/0x03_메모리로드.png' width="700" height="450">
 - 실행파일이 메모리로 올라가서 프로세스가 됨
 
 - 물리적 메모리(physical memory)로 바로 올라가는 것이 아닌 virtual memory 단계를 거쳐서 올라감
