@@ -42,7 +42,7 @@
 
 - 사용자 프로그램을 실행할때 계속 하나의 코드만 실행하지 않는다
 
-<img src='./img/0x03_프로그램실행.png' width="700" height="350" align="left">
+<img src='./img/0x03_프로그램실행.png' width="700" height="350">
 
 
 
