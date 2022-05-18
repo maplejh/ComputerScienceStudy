@@ -1,6 +1,6 @@
 ## 프로그램 실행 (메모리 load)
 
-<img src='./img/0x03_메모리로드.png' width="700" height="450" align="left">  
+<img src='./img/0x03_메모리로드.png' width="700" height="450" align="left"/>  
 
 
 
