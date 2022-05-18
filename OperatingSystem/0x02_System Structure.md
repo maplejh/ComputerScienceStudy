@@ -7,7 +7,7 @@
 <details>
   <summary>나중에 다시 해보기</summary>
   <div markdown="1">
-    <img src='./img/0x02_컴퓨터시스템구조.png' width="900" height="450" align="left">
+    <img src='./img/0x02_컴퓨터시스템구조.png' width="900" height="450">
   </div>
 </details>
 
