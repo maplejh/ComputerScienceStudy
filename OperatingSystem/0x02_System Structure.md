@@ -1,6 +1,6 @@
 ## 컴퓨터 시스템 구조
 
-<img src='./img/0x02_컴퓨터시스템구조필기.png' width="950" height="500" align="left">
+<img src='./img/0x02_컴퓨터시스템구조필기.png' width="950" height="500">
 
 
 
@@ -121,7 +121,7 @@
 
 ## 저장장치 계층구조
 
-<img src='./img/0x02_저장장치계층구조.png' width="700" height="450" align="left">
+<img src='./img/0x02_저장장치계층구조.png' width="700" height="450">
 
 
 

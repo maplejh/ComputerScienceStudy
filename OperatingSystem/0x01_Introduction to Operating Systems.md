@@ -1,6 +1,6 @@
 ## 운영체제란
 
-<img src='./img/0x01_계층.png' width="400" height="300" align="left">
+<img src='./img/0x01_계층.png' width="400" height="300">
 
 
 
@@ -62,7 +62,7 @@
 
 ## 운영체제의 구조
 
-<img src='./img/0x01_운영체제구조.png' width="300" height="400" align="left">
+<img src='./img/0x01_운영체제구조.png' width="300" height="400">
 
 - 자원 관리 이슈
   - CPU 스케줄링
